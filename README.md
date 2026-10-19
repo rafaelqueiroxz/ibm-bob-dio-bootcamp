@@ -56,3 +56,11 @@ Além do fluxo principal, incluí busca tolerante a maiúsculas e acentos, mensa
 Durante o desafio, pratiquei organização de um projeto Node.js, modelagem de dados em JSON, criação de uma CLI, testes automatizados e a ideia de expor recursos por meio de um servidor MCP.
 
 > Os certificados gerados são fictícios e possuem finalidade exclusivamente educacional.
+
+## Certificado de conclusão
+
+Como registro da conclusão do bootcamp que inspirou este projeto, segue o certificado:
+
+[![Certificado de conclusão do Bootcamp IBM Bob](assets/certificado-bootcamp-ibm-bob.png)](assets/CertificadoBootcampIBMBob.pdf)
+
+Clique na imagem para abrir o certificado em PDF.
