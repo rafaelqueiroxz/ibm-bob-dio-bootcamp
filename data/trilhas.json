@@ -1,0 +1,37 @@
+{
+  "trilhas": [
+    {
+      "id": "javascript",
+      "tecnologia": "JavaScript",
+      "nivel": "iniciante",
+      "cargaHoraria": 24,
+      "modulos": [
+        { "titulo": "Fundamentos da linguagem", "duracao": "6h", "conteudos": ["variáveis", "tipos", "operadores"] },
+        { "titulo": "Funções e coleções", "duracao": "8h", "conteudos": ["funções", "arrays", "objetos"] },
+        { "titulo": "Projetos práticos", "duracao": "10h", "conteudos": ["DOM", "eventos", "boas práticas"] }
+      ]
+    },
+    {
+      "id": "python",
+      "tecnologia": "Python",
+      "nivel": "intermediario",
+      "cargaHoraria": 30,
+      "modulos": [
+        { "titulo": "Programação orientada a objetos", "duracao": "8h", "conteudos": ["classes", "herança", "exceções"] },
+        { "titulo": "Dados e APIs", "duracao": "10h", "conteudos": ["JSON", "requisições", "tratamento de erros"] },
+        { "titulo": "Automação", "duracao": "12h", "conteudos": ["arquivos", "testes", "scripts"] }
+      ]
+    },
+    {
+      "id": "cloud",
+      "tecnologia": "Cloud Computing",
+      "nivel": "avancado",
+      "cargaHoraria": 36,
+      "modulos": [
+        { "titulo": "Arquitetura em nuvem", "duracao": "12h", "conteudos": ["escalabilidade", "alta disponibilidade", "custos"] },
+        { "titulo": "Containers e entrega", "duracao": "12h", "conteudos": ["Docker", "CI/CD", "observabilidade"] },
+        { "titulo": "Segurança", "duracao": "12h", "conteudos": ["IAM", "segredos", "monitoramento"] }
+      ]
+    }
+  ]
+}
